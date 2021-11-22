@@ -53,7 +53,7 @@ My general Science degree consisted of:
 
 ### IT Helpdesk Student Assistant (August 2015 - May 2019)
 * Employer:[Maryville University of St. Louis](https://www.maryville.edu/)
-> Troubleshooting, printer fixing, user instruction, device setup, mass iPad deployments, software installation, research, solution proposals, and task delegation.
+> Troubleshooting, printer fixing, user instruction, device setup, large-scale iPad deployment, software installation, research, solution proposals, and task delegation.
 
 ### IT Helpdesk Assistant (May 2018 - August 2018)
 * Employer: [Maryville University of St. Louis](https://www.maryville.edu/)
