@@ -49,18 +49,22 @@ My general Science degree consisted of:
 
 ### Private Nanny (October 2019 - August 2020)
 * Employer: Private
+
 > Infant care and basic household maintenance.
 
 ### IT Helpdesk Student Assistant (August 2015 - May 2019)
-* Employer:[Maryville University of St. Louis](https://www.maryville.edu/)
+* Employer: [Maryville University of St. Louis](https://www.maryville.edu/)
+
 > Troubleshooting, printer fixing, user instruction, device setup, large-scale iPad deployment, software installation, research, solution proposals, and task delegation.
 
 ### IT Helpdesk Assistant (May 2018 - August 2018)
 * Employer: [Maryville University of St. Louis](https://www.maryville.edu/)
+
 > Troubleshooting, user instruction, equipment installation, device setup, software installation, software setup, account management, hardware replacement, device reimaging, and use of Jamf Pro.  
 
 ### Swim Coach (May 2016 - July 2019)
 * Employer: [City of Florissant](https://www.florissantmo.com/)
+
 > Coaching, event planning, child instruction, and organization of records + information.
 
 
