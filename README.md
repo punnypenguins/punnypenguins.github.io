@@ -79,6 +79,7 @@ Languages:
 
 Tools:
 * Command line
+* Discord
 * Docker
 * GitHub
 * Hugo
@@ -87,9 +88,11 @@ Tools:
 * LaTeX
 * MySQL
 * Mendeley
+* Microsoft Office (especially Excel)
 * Notion
 * SciLab
 * SciPy
+* Slack
 * Trello
 
 
