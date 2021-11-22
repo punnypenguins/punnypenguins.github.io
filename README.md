@@ -24,19 +24,19 @@ General Science degree consisted of:
 
 # 💻 Experience (chronological)
 
-#### Production Engineer (September 2020 - Present)
+## Production Engineer (September 2020 - Present)
 * **Employer:** Midwestern Mac, LLC
 
-#### Private Nanny (October 2019 - August 2020)
+## Private Nanny (October 2019 - August 2020)
 * **Employer:** Private
 
-#### IT Helpdesk Student Assistant (August 2015 - May 2019)
+## IT Helpdesk Student Assistant (August 2015 - May 2019)
 * **Employer:** Maryville University of St. Louis
 
-#### IT Helpdesk Assistant (May 2018 - August 2018)
+## IT Helpdesk Assistant (May 2018 - August 2018)
 * **Employer:** Maryville University of St. Louis
 
-#### Swim Coach (May 2016 - July 2019)
+## Swim Coach (May 2016 - July 2019)
 * **Employer:** City of Florissant
 
 # ☑️ Skills
