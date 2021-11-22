@@ -18,7 +18,7 @@ Project Delve is a database that helps people find every currently-active distri
 # 🎓 Education
 
 ## Science, B.S. (2015 - 2019)
-* School: [Maryville University of St. Louis](https://www.maryville.edu/)
+* **School:** [Maryville University of St. Louis](https://www.maryville.edu/)
 * **GPA:** 3.76
 
 General Science degree consisted of:
