@@ -2,7 +2,7 @@
 
 **Production engineer, writer, scientist.** very excited, will yell about science for zero dollars. Really vibing with close-up moss photography right now.
 👩🏻‍🔬 • 🏳️‍🌈 • ♿️ • 🥾✌🏻🤙🏻🏔
-* **Email:** kgeerling@protonmail.com
+* **Email:** [kgeerling@protonmail.com](kgeerling@protonmail.com)
 * **LinkedIn:** [Katherine Geerling](https://www.linkedin.com/in/katherine-geerling-774929111/)
 * **GitHub:** [@punnypenguins](https://github.com/punnypenguins)
 
