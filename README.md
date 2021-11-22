@@ -3,7 +3,7 @@
 **Production engineer, writer, scientist.** very excited, will yell about science for zero dollars. Really vibing with close-up moss photography right now.
 👩🏻‍🔬 • 🏳️‍🌈 • ♿️ • 🥾✌🏻🤙🏻🏔
 
-# Current projects
+# ⭐ Current projects
 ### 🧬 Project Delve
 
 Project Delve is a database that helps people find every currently-active distributed computing, citizen science, volunteer archivist, volunteer humanities research project you can do on the internet OR remotely.
@@ -24,7 +24,7 @@ General Science degree consisted of:
 
 # 💻 Experience (chronological)
 
-## Production Engineer (September 2020 - Present)
+### Production Engineer (September 2020 - Present)
 * **Employer:** Midwestern Mac, LLC
 
 ## Private Nanny (October 2019 - August 2020)
@@ -53,10 +53,10 @@ TODO
 * Writing fanfiction
 * Painting
 
-# Volunteer Work
+# 🤝 Volunteer Work
 See [LinkedIn profile](https://www.linkedin.com/in/katherine-geerling-774929111/).
 
-# Around the web
+# 📧 Find me around the web
 * **Email:** kgeerling@protonmail.com
 * **LinkedIn:** [Katherine Geerling](https://www.linkedin.com/in/katherine-geerling-774929111/)
 * **GitHub:** [@punnypenguins](https://github.com/punnypenguins)
