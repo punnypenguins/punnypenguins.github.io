@@ -21,7 +21,8 @@ Project Delve is a database that helps people find every currently-active distri
 * **School:** [Maryville University of St. Louis](https://www.maryville.edu/)
 * **GPA:** 3.76
 
-General Science degree consisted of:
+### Degree overview
+My general Science degree consisted of:
 * [**Bascom Honors Program Core**](https://www.maryville.edu/bascom/wp-content/uploads/sites/23/2020/07/Bascom-Program-Planner-FA19.pdf) (replaced standard gen ed core)
 * **General sciences** foundation (Bio, Chem, and Physics core requirements + labs)
 * **Physics** minor
@@ -43,19 +44,19 @@ General Science degree consisted of:
 # 💻 Experience (chronological)
 
 ### Production Engineer (September 2020 - Present)
-* **Employer:** [Midwestern Mac, LLC](https://www.midwesternmac.com/)
+* Employer: [Midwestern Mac, LLC](https://www.midwesternmac.com/)
 
 ### Private Nanny (October 2019 - August 2020)
-* **Employer:** Private
+* Employer: Private
 
 ### IT Helpdesk Student Assistant (August 2015 - May 2019)
-* **Employer:** [Maryville University of St. Louis](https://www.maryville.edu/)
+* Employer:[Maryville University of St. Louis](https://www.maryville.edu/)
 
 ### IT Helpdesk Assistant (May 2018 - August 2018)
-* **Employer:** [Maryville University of St. Louis](https://www.maryville.edu/)
+* Employer: [Maryville University of St. Louis](https://www.maryville.edu/)
 
 ### Swim Coach (May 2016 - July 2019)
-* **Employer:** [City of Florissant](https://www.florissantmo.com/)
+* Employer: [City of Florissant](https://www.florissantmo.com/)
 
 
 # ☑️ Skills
