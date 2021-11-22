@@ -2,7 +2,9 @@
 
 **Production engineer, writer, scientist.** very excited, will yell about science for zero dollars. Really vibing with close-up moss photography right now.
 👩🏻‍🔬 • 🏳️‍🌈 • ♿️ • 🥾✌🏻🤙🏻🏔
-
+* **Email:** kgeerling@protonmail.com
+* **LinkedIn:** [Katherine Geerling](https://www.linkedin.com/in/katherine-geerling-774929111/)
+* **GitHub:** [@punnypenguins](https://github.com/punnypenguins)
 
 # ⭐ Current projects
 
@@ -62,11 +64,3 @@ TODO
 
 # 🤝 Volunteer Work
 See [LinkedIn profile](https://www.linkedin.com/in/katherine-geerling-774929111/).
-
-
-# 📧 Find me around the web
-* **Email:** kgeerling@protonmail.com
-* **LinkedIn:** [Katherine Geerling](https://www.linkedin.com/in/katherine-geerling-774929111/)
-* **GitHub:** [@punnypenguins](https://github.com/punnypenguins)
-* **Blog:** [Moss Thoughts](https://somemossthoughts.wordpress.com)
-* **Zooniverse:** [ottermelons](https://www.zooniverse.org/users/ottermelons)
