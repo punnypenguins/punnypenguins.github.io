@@ -12,10 +12,10 @@ Project Delve is a database that helps people find every currently-active distri
 
 # 🎓 Education
 
-Science, B.S. (2015 - 2019)
-*Maryville University of St. Louis*
-**GPA:** 3.76
-General Science degree was built from: 
+## Science, B.S. (2015 - 2019)
+* *Maryville University of St. Louis*
+* **GPA:** 3.76
+General Science degree was built from:
 * General sciences foundation (Bio, Chem, and Physics core requirements + labs)
 * Physics concentration
 * App Development concentration
