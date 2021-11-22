@@ -45,15 +45,19 @@ My general Science degree consisted of:
 
 ### Production Engineer (September 2020 - Present)
 * Employer: [Midwestern Mac, LLC](https://www.midwesternmac.com/)
+> Research, data analysis, down-stream project development, open source contributions, customer management, communication, organization, troubleshooting, site maintenance, account maintenance, and videography. 
 
 ### Private Nanny (October 2019 - August 2020)
 * Employer: Private
+> Infant care and basic household maintenance.
 
 ### IT Helpdesk Student Assistant (August 2015 - May 2019)
 * Employer:[Maryville University of St. Louis](https://www.maryville.edu/)
+> Troubleshooting, fixing printers, user instruction, device setup, mass iPad deployments, software installation, research, solution proposals, and task delegation.
 
 ### IT Helpdesk Assistant (May 2018 - August 2018)
 * Employer: [Maryville University of St. Louis](https://www.maryville.edu/)
+> Troubleshooting, user instruction, equipment installation, device setup, software installation, software setup, account management, hardware replacement, device reimaging, and use of Jamf Pro.  
 
 ### Swim Coach (May 2016 - July 2019)
 * Employer: [City of Florissant](https://www.florissantmo.com/)
@@ -85,7 +89,7 @@ Tools:
 * Docker
 * GitHub
 * Hugo
-* JAMF
+* Jamf
 * Jekyll
 * LaTeX
 * MySQL
