@@ -16,11 +16,11 @@ Project Delve is a database that helps people find every currently-active distri
 * *Maryville University of St. Louis*
 * **GPA:** 3.76
 
-General Science degree was built from:
-* General sciences foundation (Bio, Chem, and Physics core requirements + labs)
-* Physics concentration
-* App Development concentration
-* Computational modeling/mathematics concentration.
+General Science degree consisted of:
+* **General sciences** foundation (Bio, Chem, and Physics core requirements + labs)
+* **Physics** concentration
+* **App Development** concentration
+* **Computational modeling**/mathematics concentration.
 
 # 💻 Experience
 
