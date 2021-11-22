@@ -11,8 +11,8 @@
 ### 🧬 Project Delve
 
 Project Delve is a database that helps people find every currently-active distributed computing, citizen science, volunteer archivist, volunteer humanities research project you can do on the internet OR remotely.
-
-[ [Website](https://projectdelve.com/) | [GitHub](https://github.com/punnypenguins/projectdelve) ]
+* [Website](https://projectdelve.com/)
+* [GitHub repository](https://github.com/punnypenguins/projectdelve)
 
 
 # 🎓 Education
@@ -22,11 +22,23 @@ Project Delve is a database that helps people find every currently-active distri
 * **GPA:** 3.76
 
 General Science degree consisted of:
+* [**Bascom Honors Program Core**](https://www.maryville.edu/bascom/wp-content/uploads/sites/23/2020/07/Bascom-Program-Planner-FA19.pdf) (replaced standard gen ed core)
 * **General sciences** foundation (Bio, Chem, and Physics core requirements + labs)
 * **Physics** minor
 * **App Development** minor
 * **Computational modeling**/mathematics concentration.
 
+### Honors and awards:
+* [Bascom Honors Program](https://www.maryville.edu/bascom/) graduate
+* Dean's List:
+  * Fall 2015
+  * Fall 2016
+  * Fall 2017
+  * Spring 2018
+  * Fall 2018
+  * Spring 2019
+* [Alpha Lambda Delta](https://www.nationalald.org/) honor society
+* [National Merit Scholar](https://www.nationalmerit.org/s/1758/interior.aspx?sid=1758&gid=2&pgid=424) Finalist (2015)
 
 # 💻 Experience (chronological)
 
