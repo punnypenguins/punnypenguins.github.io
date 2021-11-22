@@ -1,6 +1,6 @@
 # 💁 About me
 
-**production engineer, writer, scientist.** very excited, will yell about science for zero dollars. really vibing with close-up moss photography right now.
+**Production engineer, writer, scientist.** very excited, will yell about science for zero dollars. Really vibing with close-up moss photography right now.
 👩🏻‍🔬 • 🏳️‍🌈 • ♿️ • 🥾✌🏻🤙🏻🏔
 
 # Current projects
@@ -15,7 +15,7 @@ Project Delve is a database that helps people find every currently-active distri
 Science, B.S. (2015 - 2019)
 *Maryville University of St. Louis*
 **GPA:** 3.76
-General Science degree was built from:
+General Science degree was built from: 
 * General sciences foundation (Bio, Chem, and Physics core requirements + labs)
 * Physics concentration
 * App Development concentration
