@@ -57,6 +57,7 @@ My general Science degree consisted of:
 
 ### Swim Coach (May 2016 - July 2019)
 * Employer: [City of Florissant](https://www.florissantmo.com/)
+> Coaching, event planning, child instruction, and organization of records + information.
 
 
 # ☑️ Skills
