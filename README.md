@@ -74,17 +74,21 @@ Languages:
 * CSS3
 * Swift
 * C (basic familiarity)
+* Ruby (learning)
+* R (learning)
 
 Tools:
 * Command line
 * Docker
 * GitHub
 * Hugo
+* JAMF
 * Jekyll
 * LaTeX
 * MySQL
 * Mendeley
 * Notion
+* SciLab
 * SciPy
 * Trello
 
