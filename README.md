@@ -18,8 +18,8 @@ Project Delve is a database that helps people find every currently-active distri
 
 General Science degree consisted of:
 * **General sciences** foundation (Bio, Chem, and Physics core requirements + labs)
-* **Physics** concentration
-* **App Development** concentration
+* **Physics** minor
+* **App Development** minor
 * **Computational modeling**/mathematics concentration.
 
 # 💻 Experience (chronological)
