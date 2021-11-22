@@ -1,31 +1,36 @@
-# About me
+# 💁 About me
 
 **production engineer, writer, scientist.** very excited, will yell about science for zero dollars. really vibing with close-up moss photography right now.
 👩🏻‍🔬 • 🏳️‍🌈 • ♿️ • 🥾✌🏻🤙🏻🏔
 
 # Current projects
-
-## Project Delve
+## 🧬 Project Delve
 
 Project Delve is a database that helps people find every currently-active distributed computing, citizen science, volunteer archivist, volunteer humanities research project you can do on the internet OR remotely.
 
 [Website](https://projectdelve.com/) | [GitHub](https://github.com/punnypenguins/projectdelve)
 
-# Education
+# 🎓 Education
 
 TODO
 
-# Experience
+# 💻 Experience
 
 TODO
 
-# Skills
+# ☑️ Skills
 
 TODO
 
-# Hobbies
-
-TODO
+# 🤸🏻‍♀️ Hobbies
+* Aerial yoga
+* Video Games
+* Bead loom weaving
+* Hiking
+* Photography
+* Reading (especially nonfiction and poetry)
+* Fanfiction
+* Painting
 
 # Contact
 
