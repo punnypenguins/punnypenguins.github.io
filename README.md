@@ -13,7 +13,7 @@ Project Delve is a database that helps people find every currently-active distri
 # 🎓 Education
 
 ## Science, B.S. (2015 - 2019)
-* *Maryville University of St. Louis*
+* School: [Maryville University of St. Louis](https://www.maryville.edu/)
 * **GPA:** 3.76
 
 General Science degree consisted of:
@@ -22,21 +22,22 @@ General Science degree consisted of:
 * **App Development** concentration
 * **Computational modeling**/mathematics concentration.
 
-# 💻 Experience
+# 💻 Experience (chronological)
 
 #### Production Engineer (September 2020 - Present)
-*Midwestern Mac, LLC*
+* **Employer:** Midwestern Mac, LLC
 
 #### Private Nanny (October 2019 - August 2020)
+* **Employer:** Private
 
 #### IT Helpdesk Student Assistant (August 2015 - May 2019)
-*Maryville University of St. Louis*
+* **Employer:** Maryville University of St. Louis
 
 #### IT Helpdesk Assistant (May 2018 - August 2018)
-*Maryville University of St. Louis*
+* **Employer:** Maryville University of St. Louis
 
 #### Swim Coach (May 2016 - July 2019)
-*City of Florissant*
+* **Employer:** City of Florissant
 
 # ☑️ Skills
 
@@ -49,8 +50,11 @@ TODO
 * Hiking
 * Photography
 * Reading (especially nonfiction and poetry)
-* Fanfiction
+* Writing fanfiction
 * Painting
+
+# Volunteer Work
+See [LinkedIn profile](https://www.linkedin.com/in/katherine-geerling-774929111/).
 
 # Around the web
 * **Email:** kgeerling@protonmail.com
