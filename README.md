@@ -2,6 +2,7 @@
 
 **Production engineer, writer, scientist.** Really vibing with close-up moss photography right now.
 👩🏻‍🔬 • 🏳️‍🌈 • ♿️ • 🥾✌🏻🤙🏻🏔
+* **Writing samples:** [documentation samples](https://github.com/punnypenguins/writing-samples/tree/main/Documentation)
 * **Email:** [kgeerling@protonmail.com](kgeerling@protonmail.com)
 * **LinkedIn:** [Katherine Geerling](https://www.linkedin.com/in/katherine-geerling-774929111/)
 * **GitHub:** [@punnypenguins](https://github.com/punnypenguins)
@@ -13,7 +14,6 @@
 Project Delve is a database that helps people find every currently-active distributed computing, citizen science, volunteer archivist, volunteer humanities research project you can do on the internet OR remotely.
 * [Website](https://projectdelve.com/)
 * [GitHub repository](https://github.com/punnypenguins/projectdelve)
-
 
 # 🎓 Education
 
@@ -68,7 +68,7 @@ My general Science degree consisted of:
 > Coaching, event planning, child instruction, and organization of records + information.
 
 ### Editor (March 2014 - July 2015)
-* Employer [Jeff Geerling (author)](https://www.jeffgeerling.com/)
+* Employer: [Jeff Geerling (author)](https://www.jeffgeerling.com/)
 
 > Proofreading and editing for [**Ansible for DevOps**](https://www.ansiblefordevops.com/).
 
