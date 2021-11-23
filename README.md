@@ -67,6 +67,10 @@ My general Science degree consisted of:
 
 > Coaching, event planning, child instruction, and organization of records + information.
 
+### Editor (March 2014 - July 2015)
+* Employer [Jeff Geerling (author)](https://www.jeffgeerling.com/)
+
+> Proofreading and editing for **[Ansible for DevOps**](https://www.ansiblefordevops.com/).
 
 # ☑️ Skills
 * Adaptability
