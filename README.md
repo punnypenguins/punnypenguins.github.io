@@ -2,7 +2,7 @@
 
 **Production engineer, writer, scientist.** Really vibing with close-up moss photography right now.
 👩🏻‍🔬 • 🏳️‍🌈 • ♿️ • 🥾✌🏻🤙🏻🏔
-* **Writing samples:** [documentation samples](https://github.com/punnypenguins/writing-samples/tree/main/Documentation)
+* **Writing samples:** [Documentation](https://github.com/punnypenguins/writing-samples/tree/main/Documentation)
 * **Email:** [kgeerling@protonmail.com](kgeerling@protonmail.com)
 * **LinkedIn:** [Katherine Geerling](https://www.linkedin.com/in/katherine-geerling-774929111/)
 * **GitHub:** [@punnypenguins](https://github.com/punnypenguins)
