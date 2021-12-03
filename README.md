@@ -90,6 +90,8 @@ Languages:
 * C (basic familiarity)
 * Ruby (learning)
 * R (learning)
+* TOML (dabble)
+* YAML (dabble)
 
 Tools:
 * Command line
@@ -109,7 +111,6 @@ Tools:
 * Slack
 * Trello
 
-
 # 🤸🏻‍♀️ Hobbies
 * Aerial yoga
 * Video Games
@@ -119,7 +120,6 @@ Tools:
 * Reading (especially nonfiction and poetry)
 * Writing fanfiction
 * Painting
-
 
 # 🤝 Volunteer Work
 See [LinkedIn profile](https://www.linkedin.com/in/katherine-geerling-774929111/).
