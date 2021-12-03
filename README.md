@@ -2,6 +2,7 @@
 
 **Production engineer, writer, scientist.** Really vibing with close-up moss photography right now.
 👩🏻‍🔬 • 🏳️‍🌈 • ♿️ • 🥾✌🏻🤙🏻🏔
+* **Boring standard resume (PDF):** [Katherine Geerling's Resume '21](https://github.com/punnypenguins/punnypenguins.github.io/blob/main/assets/Geerling_2021_Resume.pdf)
 * **Writing samples:** [Documentation](https://github.com/punnypenguins/writing-samples/tree/main/Documentation)
 * **Email:** [kgeerling@protonmail.com](kgeerling@protonmail.com)
 * **LinkedIn:** [Katherine Geerling](https://www.linkedin.com/in/katherine-geerling-774929111/)
