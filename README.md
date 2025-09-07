@@ -1,21 +1,3 @@
-# 💁 About me
-
-**Production engineer, writer, scientist.** Really vibing with close-up moss photography right now.
-👩🏻‍🔬 • 🏳️‍🌈 • ♿️ • 🥾✌🏻🤙🏻🏔
-* **Boring standard resume (PDF):** [Katherine Geerling's Resume '21](https://github.com/punnypenguins/punnypenguins.github.io/blob/main/assets/Geerling_2021_Resume.pdf)
-* **Writing samples:** [Documentation](https://github.com/punnypenguins/writing-samples/tree/main/Documentation)
-* **Email:** [kgeerling@protonmail.com](kgeerling@protonmail.com)
-* **LinkedIn:** [Katherine Geerling](https://www.linkedin.com/in/katherine-geerling-774929111/)
-* **GitHub:** [@punnypenguins](https://github.com/punnypenguins)
-
-# ⭐ Current projects
-
-### 🧬 Project Delve
-
-Project Delve is a database that helps people find every currently-active distributed computing, citizen science, volunteer archivist, volunteer humanities research project you can do on the internet OR remotely.
-* [Website](https://projectdelve.com/)
-* [GitHub repository](https://github.com/punnypenguins/projectdelve)
-
 # 🎓 Education
 
 ## Science, B.S. (2015 - 2019)
@@ -71,56 +53,3 @@ My general Science degree consisted of:
 ### Editor (March 2014 - July 2015)
 * Employer: [Jeff Geerling (author)](https://www.jeffgeerling.com/)
 > Proofreading and editing for [**Ansible for DevOps**](https://www.ansiblefordevops.com/).
-
-# ☑️ Skills
-* Adaptability
-* Research (scientific and general)
-* Writing
-* Explanation + instruction
-* Documentation
-* Computational modeling
-* Troubleshooting
-* Data organization
-
-Languages:
-* Python
-* HTML5
-* CSS3
-* Swift
-* C (basic familiarity)
-* Ruby (learning)
-* R (learning)
-* TOML (dabble)
-* YAML (dabble)
-
-Tools:
-* Command line
-* Discord
-* Docker
-* GitHub
-* Hugo
-* Jamf
-* Jekyll
-* LaTeX
-* MySQL
-* Mendeley
-* Microsoft Office (especially Excel)
-* Notion
-* SciLab
-* SciPy
-* Slack
-* Trello
-* VS Code
-
-# 🤸🏻‍♀️ Hobbies
-* Aerial dance
-* Video Games
-* Bead loom weaving
-* Hiking
-* Photography
-* Reading (especially nonfiction and poetry)
-* Writing fanfiction
-* Art
-
-# 🤝 Volunteer Work
-See [LinkedIn profile](https://www.linkedin.com/in/katherine-geerling-774929111/).
